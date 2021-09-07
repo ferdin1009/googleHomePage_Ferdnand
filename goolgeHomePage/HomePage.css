@@ -18,3 +18,7 @@
         visibility: visible;
       }
     
+    .inputWrapper {
+        padding: 1px 44px 1px 52px;
+        
+    }
