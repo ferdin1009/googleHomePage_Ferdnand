@@ -1,0 +1,19 @@
+.body {
+    background: #FFFFFF;
+}
+
+     
+.bilde{
+    position: fixed;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    justify-content: right;
+    float:right;
+}
+
+
+.inputWrapper{
+    text-align: center;
+}
